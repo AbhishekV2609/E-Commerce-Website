@@ -1,18 +1,4 @@
-# E-Commerce-Website
-
-This project is a responsive e-commerce website built with HTML, CSS, and JavaScript. It allows users to browse products, view product details, and contact the store. The site features a modern design, interactive elements, and is mobile-friendly.
-
-## Features
-
-- Product listing and single product detail pages
-- Responsive layout using Bootstrap
-- Interactive product slider and carousel
-- Lightbox for product images
-- Contact and about pages
-- Font Awesome icons
-
-## how to access this website
-# E-Commerce-Website
+## E-Commerce-Website
 
 This project is a responsive e-commerce website built with HTML, CSS, and JavaScript. It allows users to browse products, view product details, and contact the store. The site features a modern design, interactive elements, and is mobile-friendly.
 
